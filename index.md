@@ -1,7 +1,7 @@
 
 
 ### **Булат Шайхразиев**  
-Email: freecountried@gmail.com | Telegram: [@shaykhraziev_b](https://t.me/shaykhraziev_b)
+Email: freecountried@gmail.com | Telegram: [@shaykhraziev_b](https://t.me/shaykhraziev_b) | Github: [CWSHBR](https://github.com/CWSHBR)
 
 ---
 
