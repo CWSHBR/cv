@@ -26,7 +26,7 @@ Backend-разработчик с опытом ведения командной
 
 ### **Хард скиллы**
 
-- **Языки и фреймворки:** Kotlin, Ktor Server/Client
+- **Языки и фреймворки:** Kotlin, Ktor Server/Client, Python, FastAPI, Flask
 - **Базы данных:** PostgreSQL, Redis
 - **Инфраструктура и DevOps:** Docker Compose, nginx, GitHub Actions, Gitlab Actions
 - **API и интеграции:** OpenAPI (Swagger), Telegram Bot API, OpenAI API, Yandex LLM API, Mistral AI API
@@ -59,6 +59,12 @@ Backend-разработчик с опытом ведения командной
 **Мэтчинг сокомандников**  
 *Социальная платформа для поиска команд на олимпиады*  
 — Модель мэтчинга, интеграция с Telegram-ботом. 
+
+---
+### Образование 
+
+**Санкт-Петербургский Политехнический Университет Петра Великого** \
+— *Информатика и вычислительная техника* — 2029
 
 ---
 
