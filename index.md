@@ -89,6 +89,5 @@ Email: [freecountried@gmail.com](mailto:freecountried@gmail.com) | Telegram: [@s
 
 - **PROD'24** — финалист олимпиады по промышленной разработке
 - **PROD'25** — финалист олимпиады по промышленной разработке
-- Веду публичный GitHub с учебными, командными и pet-проектами: [github.com/CWSHBR](https://github.com/CWSHBR)
 
 
