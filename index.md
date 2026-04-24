@@ -43,7 +43,7 @@ Email: [freecountried@gmail.com](mailto:freecountried@gmail.com) | Telegram: [@s
 
 ---
 
-[**DropTableUsers API**](https://github.com/CWSHBR/prod-final-team-24) \
+[**Teammate Matcher**](https://github.com/CWSHBR/prod-final-team-24) \
 *Командный backend-проект в рамках финала PROD'24* \
 `Kotlin`, `Ktor`, `REST API`, `Telegram Bot API`
 
