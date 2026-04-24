@@ -32,9 +32,20 @@ Email: [freecountried@gmail.com](mailto:freecountried@gmail.com) | Telegram: [@s
 
 ### **Проекты**
 
+[**Apliko IoT Platform**](https://notiot.ru) \
+*Backend API для IoT-платформы* \
+`Kotlin`, `PostgreSQL`, `Redis`,  `Apache Superset`, `ngnix`, `Docker Compose`
+
+- Разрабатывал backend-сервис для взаимодействия пользователей и IoT-устройств
+- Реализовывал API и логику обработки данных и команд устройств
+- Использовал Postgres и Redis для хранения и быстрого доступа к данным
+- Участвовал в поддержке инфраструктуры сервиса и CI/CD-процессов
+
+---
+
 [**Superadvertising**](https://github.com/CWSHBR/superadvertising-3000) \
 *Индивидуальный backend-проект в рамках финала PROD'25* \
-`Kotlin`, `Ktor`, `PostgreSQL`, `RabbitMQ`, `Redis`, `MinIO`, `Superset`, `Docker Compose`
+`Kotlin`, `Ktor`, `PostgreSQL`, `RabbitMQ`, `Redis`, `MinIO`, `Apache Superset`, `Docker Compose`
 
 - Реализовал backend рекламной платформы с управлением кампаниями, статистикой и Telegram-ботом
 - Поднял локальную инфраструктуру из нескольких сервисов через Docker Compose
@@ -76,12 +87,8 @@ Email: [freecountried@gmail.com](mailto:freecountried@gmail.com) | Telegram: [@s
 
 ### **Достижения и активности**
 
-- **PROD'24** — финалист олимпиады по программированию
-- **PROD'25** — финалист олимпиады по программированию
+- **PROD'24** — финалист олимпиады по промышленной разработке
+- **PROD'25** — финалист олимпиады по промышленной разработке
 - Веду публичный GitHub с учебными, командными и pet-проектами: [github.com/CWSHBR](https://github.com/CWSHBR)
 
----
 
-### **Хобби и интересы**
-
-Звукоинженерия, графический дизайн — люблю создавать, не только писать код.
